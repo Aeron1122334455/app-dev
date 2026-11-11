@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+**Favorite Movies**
+*Baby*
+*Lightning Mcqueen*
